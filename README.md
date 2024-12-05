@@ -1,2 +1,2 @@
-# effective-spork
+# Learning Git
 my new repo
